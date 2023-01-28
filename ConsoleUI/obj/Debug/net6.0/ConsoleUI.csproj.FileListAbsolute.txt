@@ -62,3 +62,4 @@ C:\Users\HP\Desktop\GitHub\Backend\RentACarProject\ConsoleUI\obj\Debug\net6.0\Co
 C:\Users\HP\Desktop\GitHub\Backend\RentACarProject\ConsoleUI\obj\Debug\net6.0\ref\ConsoleUI.dll
 C:\Users\HP\Desktop\GitHub\Backend\RentACarProject\ConsoleUI\bin\Debug\net6.0\Core.dll
 C:\Users\HP\Desktop\GitHub\Backend\RentACarProject\ConsoleUI\bin\Debug\net6.0\Core.pdb
+C:\Users\HP\Desktop\GitHub\Backend\RentACarProject\ConsoleUI\bin\Debug\net6.0\Newtonsoft.Json.dll
